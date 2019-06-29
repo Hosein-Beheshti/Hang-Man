@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1517007172 source:f:\new folder\new final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<Windows.h>
+	<unistd.h>
+	<conio.h>
+
+1517008538 source:f:\new final project\new final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<Windows.h>
+	<unistd.h>
+	<conio.h>
+
+1561635086 source:f:\programming c\new final project\new final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<Windows.h>
+	<unistd.h>
+	<conio.h>
+
